@@ -1,0 +1,3 @@
+# CTI Feed — domain Blocklist
+# Updated: 2026-08-10
+# Format: one IPv4/IPv6/CIDR per line | # = comment
